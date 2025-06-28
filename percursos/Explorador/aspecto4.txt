@@ -1,0 +1,1 @@
+Faro por Água: Detecta fontes de água a curta distância. O jogador pode rolar um dado de sentidos com vantagem sempre que estiver atrás de água, a urgência aplica uma vantagem a mais.

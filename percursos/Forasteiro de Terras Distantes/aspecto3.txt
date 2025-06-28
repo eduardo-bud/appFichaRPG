@@ -1,0 +1,1 @@
+Adaptabilidade: Menor penalidade ao lidar com ambientes desconhecidos.
