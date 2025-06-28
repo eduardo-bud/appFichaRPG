@@ -1,0 +1,87 @@
+==**Habilidades de Classe**==
+
+*Nível 1 - Postura Inabalável*
+
+- Uma postura completa que um verdadeiro protetor possui, uma muralha verdadeira que guarda seus companheiros como um grande escudo protetor.
+	  
+	  
+	- Quando em postura, o jogador recebe 2 em resistências Físicas (Cortes, Impactos e Disparos).
+	  
+	- O jogador recebe +1 de Fortitude a cada 2 níveis de personagem. 
+	  
+	- Enquanto em postura, ataques perfurantes, desprevenidos ou flanqueados não tem efeito no personagem.
+
+---
+
+*Nível 3 - Escudo Protetor*
+
+- Como uma muralha viva que dará sua vida por seus companheiro este homem lutará, uma potência quando se trata da resistência absoluta, um poder supremo que afasta as forças malignas.
+	  
+	- O jogador pode se lançar para um aliado adjacente como uma ação livre, recebendo o ataque no lugar dele.
+	  
+	- Caso a distância seja maior que o deslocamento do jogador o mesmo deve rolar um teste de agilidade para compensar a distância.
+	  
+	- Cada três ataques bloqueados em aliados diferentes permite rebater o quarto com a mesma intensidade ao inimigo.
+
+---
+
+*Nível 5 - Muralha Viva*
+
+- O Guardião se torna uma barreira impenetrável, ampliando sua capacidade defensiva para si e para os aliados, se assemelhando em todos os pontos a um grande muro de castelo, uma fortaleza viva que protege todos dentro.
+	
+	- Todos os aliados em um raio de 5 metros do usuário recebem resistência 3 a ataques físicos (Cortes, Impactos e Disparos).
+	  
+	- O jogador recebe +1 em Fortitude por cada aliado dentro do raio de efeito dessa habilidade. 
+	  
+	- Dentro dessa área, o jogador pode usar escudo protetor sem qualquer limitação de distância.
+---
+
+*Nível 7 - Contra-Ataque de Ferro*
+
+- Não só de defesa se faz um guardião, as vezes a melhor defesa passa a ser o melhor ataque, é assim que um guardião deve agir, proteger e destruir qualquer um que ouse se aproximar de seus protegidos.
+	
+	- O jogador pode rebater ataque que o tenham como alvo, ou que tenha alvo em seus aliados. Tal ataque será rebatido com o dobro da intensidade original. Teste de Fortitude para rebater o ataque. 
+	  
+	- Caso Muralha viva esteja ativado, o jogador pode rebater qualquer ataque que tenham alvo um aliado dentro da área de efeito da muralha sem precisar rolar um teste para tal.
+	  
+	- Se Escudo Protetor for usado, o ataque recebe um Bônus de +1d+2 de dano por cada ponto de Fortitude do jogador.
+	  
+	- O ataque rebatido pode receber os seguintes efeitos quando defletido. 
+		  
+		- **Empurrar:** Lança um inimigo para até 6 metros do alvo.
+		  
+		- **Explosão:** Explode o ataque em até 2 inimigos adjacentes com metade do dano original.
+		  
+		- **Esmagar:** Pode direcionar o ataque junto ao alvo para baixo o imobilizando contra você pelo próximo turno dele, exigindo testes de ambos para uma liberação forçada.
+---
+
+*Nível 9 - Sangue de ferro e Cinzas*
+
+- As cinzas o tornaram mais resistentes, seu sangue tem o odor forte de ferro, protegido por poderosas camadas de cinzas negras, dos corpos daqueles desprotegidos. 
+	
+	- Sangue de ferro aumenta a vitalidade do jogador +10 por cada ponto em Fortitude até o máximo de 100. O restante é dividido por 5 e se torna uma regeneração de vitalidade por rodada.
+	  
+	- As cinzas que cobrem o corpo do personagem o tornam mais resistente e capaz de proteger a si mesmo, sua defesa aumenta grandemente até 4 em resistências físicas (Cortes, Impactos e Disparos), adquiri também resistência sobrenatural 2.
+---
+
+*Nível 10 - Égide Verdadeira*
+
+- Proteção, dever, poder, defesa, resistência, tudo oque isso significa é a graça dessa habilidade, esse é o poder que um verdadeiro guardião almejou por toda uma vida, a defesa inabalável. 
+	
+	- O jogador recebe resistência física 5 (Cortes, Impactos e Disparos), além de resistência sobrenatural 3. 
+	  
+	- A Fortitude do jogador é aumentado em +5 durante os combates.
+	  
+	- O Efeito de Muralha Viva aumenta em +5 metros totais. Todos os ataques rebatidos agora causam +10 de dano por cada ponto de Fortitude do jogador.
+	
+	- Sangue de ferro e cinzas se tornam uma carapaça de escorpião resistente e impenetrável. Qualquer tipo de dano perfurante ou de perfuração, tal como desprevenido ou garantido se tornam inúteis e não tem efeito no jogador.
+	  
+	- **Égide Etérea:** Permite consumir 70 de Ether para criar uma poderosa fortaleza de Ether em uma área de 12 metros entre você e seus aliados. Dentro da fortaleza cada jogador tem uma posição, e cada uma destas posições aumentam a resistência da fortaleza.
+		  
+		- **Barreira Coletiva:** Todos dentro da fortaleza recebem uma redução de dano de 150. 
+		  
+		- **Posição:** Cada jogador dentro da Égide ocupa uma posição importante dentro dela., aumentando a resistência da Égide em +50 por cada jogador dentro dela. 
+		  
+		- **Dano Distribuído:** Se um ataque superar a barreira, o dano é **dividido** entre os aliados dentro da fortaleza, considerando suas defesas individuais.
+	
+	- Caso o dano passe da resistência da Égide, ou das resistências individuais a Égide é destruída pedaço por pedaço.

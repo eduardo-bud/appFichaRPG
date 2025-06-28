@@ -1,0 +1,68 @@
+==**Passivas**== 
+**Golpes Escaldantes:** Cada golpe desferido pelo usuário é uma queimadura poderosa. O jogador causa 2d8+4 de dano por nível e 2 pontos de queimadura nos inimigos atingidos.
+
+==**Habilidades**== 
+
+*Nível 1 - Domínio das Chamas*
+
+- Com o poder das chamas ao seu lado você pode fazer de tudo, queime seus inimigos e destrua qualquer um que tente adentrar seu caminho. O jogador agora pode controlar chamas de varias formas, mas sustentando-se em dois principais. 
+	  
+	- **Inflamação:** Seus punhos se tornam sóis menores, seu chutes tem energia suficiente para colapsar o mundo, você é o sol mais brilhante na terra. Ao inflamar uma parte de seu corpo você pode aumentar em +4d+8 o dano dos golpes escaldantes e a queimadura infringida. Consome 10 de Ether por cada rodada. 
+	  
+	- **Incinerar:** Uma rajada de poder, fogo em sua mais pura essência, destruindo e dizimando tudo em seu caminho, um poder que vai muito além do que se entende como fogo. Usa 45 de Ether e causa 1d12+2 de dano de chamas.
+
+*Nível 3 - Encarnação das Chamas*
+
+- Teu corpo agora é banhado pelo fogo ó filho das chamas, tua vontade é a vontade de tudo que queima, teu ódio é nosso ódio, tua vontade queima com nossas chamas. 
+	
+	- Quando encarnado pelas chamas, o jogador pode aumentar todo o dano que ele causa em 1d8+2 por cada nível de personagem. 
+	  
+	- Cada Rodada que o jogador permaneça encarnado aumenta a potência de suas chamas em três níveis. 
+		  
+		- **Chamas vermelhas:** Acima de 3000º com chamas que carbonizam até mesmo os ossos dos seres humanos ao redor, uma chama que não difere aliados de inimigos. Em uma área de 4 metros, tudo dentro dela recebe um dano passivo de 3d10+6 por cada 2 níveis de personagem. 
+		
+		- **Chamas brancas:** Temperaturas capazes de derreter a atmosfera de nosso mundo, chamas tão brilhantes quanto quentes. Todos os golpes desferidos pelo jogador tem seu dano dobrado por padrão. Três golpes consecutivos causam um ponto de fissura.
+			- **Ponto de Fissura:** No terceiro golpe consecutivo, um ponto de fissura aparece, o inimigo golpeado por este ponto adquiri 6 pontos de queimadura instantaneamente. 
+		
+		- **Chamas Azuis:** Queime, faça o mundo queimar com teus passos, destrua tudo em seu caminho com o poder de suas chamas. Inimigos que tenham menos de 15% de sua vida são instantaneamente incinerados até a morte. 
+	
+	- Cada rodada que o jogador passa encarnado pelas chamas lhe custa 25 de vitalidade e 30 de Ether.
+
+*Nível 5 - Chamas Vivas*
+
+- As chamas tomam vida pela ordem do arauto, sua palavra é lei, seu comando é uma ordem absoluta, os espíritos das chamas obedecem sem questionar. 
+	  
+	- No começo de uma batalha, o jogador pode invocar um espírito das chamas para acompanhá-lo na luta. O espírito tem sua vida baseada na potência de suas chamas. 
+	  
+	- **O jogador só pode invocar espíritos das chamas de nível médio.**
+	  
+	- **Espírito das Chamas:** 
+		  
+		- Mente: 6
+		- Fortitude: 8
+		- Agilidade: 10
+		- Sentidos: 4
+		- Poder: 12
+		  
+	- Cada 3 pontos em poder que o jogador tenha aumentam em +1 os atributos do espírito. 
+	  
+	- Habilidades: 
+		- **Chamas Espiritual:** Desfere uma chama poderosa diretamente do reino dos espíritos, tal chama não pode ser apagada. Concede queimadura 4 temporária e dano de 2d10+4 por cada nível de personagem a partir do nível 3. 
+		
+		- **Labaredas Verdadeiras:** Suas chamas criam um círculo ao redor do inimigo, e dentro deste círculo uma explosão de chamas acontece, causando dano massivo a qualquer ser dentro. Dano de 12d10+24
+
+*Nível 7 - Consciência das Chamas*
+
+- As chamas vivem por seu mestre, elas respiram por ele e darão sua existência por ele, sua vida é oque mais importa, para sempre irão curar ou proteger seu mestre, mesmo que contra sua vontade...
+	  
+	- As chamas com consciência podem curar ou proteger seu mestre ao custo de Ether e PA. 
+		
+		- **Recuperação:** O jogador é curado em 10 de vida por cada PA usado no combate. 
+		  
+		- **Devoção Calorosa:** Se em perigo de morte, as chamas irão retirar o jogador forçadamente do campo de batalha para uma localização da qual ele se lembre. Esse fator independe da vontade do jogador ou de seu estado de vitalidade. O transporte consome 60 de Ether, caso não o tenha, o valor restante será retirado de sua vida.
+
+*Nível 9 - Armadura Espiritual*
+
+- As chamas vem em proteção de seu mestre, seu poder todo é convertido para a proteção de seu mestre, nada poderá feri-lo.
+	  
+	- As chamas envolvem o corpo do jogador como uma armadura feita de belas chamas alaranjada. As chamas concedem ao jogador proteção contra cortes, impactos e sobrenatural 3. 

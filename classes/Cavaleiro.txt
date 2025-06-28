@@ -1,0 +1,56 @@
+==**Passivas**==
+- Símbolo da Honra
+- Símbolo do Dever
+
+==**Habilidades**==
+
+*Nível 1 - Mestre de uma Arma*
+
+- O Cavaleiro deve escolher uma companheira para toda a vida, uma arma que lhe acompanhará por toda a sua jornada e que com esta se tornará o mais forte homem. 
+- Quando empunhando sua arma favorita em combate o jogador pode usar um bônus de +2d no acerto 2 vezes por combate. Cada nível aumenta em +1d este mesmo bônus.
+---
+*Nível 3 - Guarda de Cavaleiro*
+
+- Quando em guarda, um cavaleiro não pode ser derrubado ou imobilizado tampouco pego desprevenido revelando os anos de treinamento árduo e um grande cavaleiro.
+- Ao decorrer do jogo o jogador pode decretar que está em guarda, anulando a possibilidade de ataques de oportunidade, imobilização e emboscada contra si ou seus aliados.
+---
+*Nível 5 - Armadura de Ether*
+
+- O cavaleiro é um mestre em manipular o próprio Ether sendo capaz de usar tal manipulação para criar uma poderosa e resistente armadura para defender-se de tudo que possa afetá-lo.
+- O jogador emprega uma quantia de Ether a sua escolha que será transformada em valor de armadura para o jogador reduzindo o dano recebido. 
+---
+*Nível 7 - Aura Guardiã*
+
+- A manifestação da aura de um jogador, uma entidade gerada de sua própria vontade de cumprir sua missão que pode se manifestar das mais diversas formas... A aura é poderosa e perigosa e somente aqueles com altas capacidades tem o poder de dominá-la corretamente.
+- O jogador pode desenvolver uma Aura junto ao mestre com efeitos específicos baseados na índole do personagem e seus pensamentos.
+---
+*Nível 9 - Lâmina de Aura*
+
+- O jogador pode invocar uma Lâmina de aura que aumenta o dano máximo do jogador baseado em seu Poder. Cada ponto em poder aumenta o dano do jogador em +1d (Arma escolhida).
+  
+- O jogador pode dispersar uma onde de Ether em corte contra os inimigos que causará o mesmo dano, mas a distância.
+---
+*Nível 10 - Cavaleiro Guardião*
+
+- O cavaleiro guardião é sem duvidas o mais poderosos nível que um cavaleiro pode alcançar se tornando um pilar que sustenta impérios e destrói reinos, um exemplo de poder e honra.
+- Permite que todos os atributos aumentem em +5, a vida temporária dobre, o consumo de Ether reduza em metade e o dano aumente em +2d (arma escolhida) por cada 2 pontos em poder por 1 combate com recarga de um descanso longo.
+
+# Símbolo do Dever
+
+- O símbolo do Dever é escolhido pelo próprio cavaleiro e define a missão e objetivo do cavaleiro, uma missão que nunca pode ser transpassada ou abandonada, uma missão que demonstra o dever daquele cavaleiro. 
+
+- Exemplo: O cavaleiro jurou sob sua arma que protegeria o portão do castelo de qualquer um, e morreu em batalha protegendo-o sem que um único inimigo ultrapassasse...
+
+- O símbolo do dever representa o poder do cavaleiro que se apoia em virtudes e convicções, se desvincular de seu caminho e missões é o mesmo que abandonar sua virtude e convicção.
+
+ - Caso o jogador abandone seu símbolo do dever ou falhe em executá-lo uma penalidade a escolha do mestre de acordo com o momento é escolhida.
+
+# Símbolo da Honra
+
+- É uma obrigação que o jogador delimita a si mesmo para restringir seu poder, um limite conhecido como o "Código Dos Cavaleiros" que nunca jamais pode ser ultrapassado. 
+
+- O código define a honra de um cavaleiro e aquele que quebra este não será mais um cavaleiro. 
+
+- Exemplo: O cavaleiro definiu que seu símbolo seria "eu não posso atacar quem não me vê", tornando este seu símbolo que nunca poderá ser rompido... 
+
+- Quando definido pelo jogador o mesmo não pode contrariar nem que queira.

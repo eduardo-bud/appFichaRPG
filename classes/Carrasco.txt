@@ -1,0 +1,42 @@
+ ==**Passivas**==
+**Executora:**
+	- Uma arma poderosa utilizada por um carrasco, seu poder é letal, uma executora precisa e poderosa. Causa 2d10+4 de dano por nível de jogador até o nível 9. 
+
+==**Habilidades**==
+
+*Nível 1 - Sentença de Morte*
+
+- Com sua poderosa executora em mãos, o carrasco sentencia seus alvos a morte, não há salvação frente a execução do carrasco, a morte aguarda aqueles julgados.
+	- Inimigos que foram "marcados" pela sentença de morte do carrasco recebem 1d8 de dano a mais por cada ponto de poder do carrasco. Caso a vida do inimigo chegue a 50% enquanto marcado pela sentença, o mesmo tem uma desvantagem para desviar dos ataques do carrasco.
+
+*Nível 3 - Espirito de Execução*
+
+- A pressão que o carrasco exala é algo indescritível, o cheiro de morte e o odor do sangue vindo de sua mão são traumatizantes, aqueles de mente fraca não conseguem olhar direto para o carrasco, afinal, o sentimento mais primitivo do mundo é o medo, e o medo da morte é o pior deles.
+	- O jogador pode usar seu espírito para suprimir seus inimigos como quiser, inimigos mais fracos que o jogador automaticamente perdem sua vontade de lutar, ou fogem de medo, inimigos mais fortes podem resistir em um teste de poder contra o carrasco. 
+	- A cada 2 pontos em poder 1 nível é representado, até o nível 10, ou seja 20 pontos.
+
+*Nível 5 - Grilhões do Sentenciado*
+
+- Alguém que será executado não deve se mover, não há motivo para tal, o inimigo deve esperar pacientemente sua execução, aguardando a morte prometida e sua sentença final, a morte é oque lhe aguarda, então aguarde de forma silenciosa.
+	- O jogador pode sacar seus grilhões de energia para suprimir um inimigo. Inimigos presos pelos grilhões ficam imobilizados por 2 rodadas (aumenta em 1 rodada a cada 2 níveis). Quando soltos dos grilhões, inimigos perderão 1/4 de seu movimento e 2 PA até o fim do combate. 
+	- A habilidade consome 35 de Ether por uso. 
+
+*Nível 7 - Executora Aprimorada*
+
+- Sua fiel companheira precisa de fortalecer de alguma forma não? Um carrasco não pode permitir que sua fiel companheira padeça junto das vitmas.
+	- O carrasco pode embeber a lâmina da executa com sangue, tornando-a mais forte e mais poderosa. A lâmina ganha um dano de 5d+10 a mais que o comum e causa 3 pontos de sangramento em qualquer inimigo acertado.
+	- Não consome Ether, mas deve ser ativada todo turno de jogador antes de atacar, nunca depois.
+
+*Nível 9 - Penitência*
+
+- Antes da morte deve haver a punição, alguém tem que sofrer, e deve sofrer muito antes de atingir o fim, a morte não deve ser pacífica, e não será.
+	- Inimigos afetados por golpes do executor podem sofrer uma penitência. Inimigos afetados pela penitência sofrem de dano sobrenatural.
+	- O jogador consome 55 de Ether para condenar o inimigo a uma penitência, a penitência em si está a escolha do jogador.
+	- A penitência causa 2d12+4 de dano por cada ponto de poder do jogador, Penitência dura 4 rodadas.
+
+*Nível 10 - Utimas Palavras*
+
+- As ultimas palavras antes da morte, observe como o carrasco afia sua executora, pronto para decepar seu belo pescoço, tão perto da morte que abraçar a vida sequer vale a pena, o fim está próximo...
+	- O jogador pode uma vez por descanso curto executar um inimigo de nível semelhante, contanto que o mesmo tenha menos de 50% da vida total.
+	- Inimigos de níveis superiores quando afetados por essa técnica recebem o dano padrão dobrado, 5 pontos em sangramento e tem um dreno de vida de 1d12+2 por ponto de poder do jogador.
+	- Consome 75 de Ether.
